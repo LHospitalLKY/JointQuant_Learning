@@ -1,5 +1,7 @@
-# JointQuant_Learning
+# JoinQuant_Learning
 聚宽网量化投资策略编写的学习文档
+
+**Attention**: 本Resposity大部为JoinQuant上的新手教程内容、社区大牛的教学贴与API文档的搬运，偶尔改变叙述方式，**并非**原创内容。
 
 ## 1 新手入门
 ### 1.1 十行代码带你量化交易入门
